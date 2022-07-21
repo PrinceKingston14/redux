@@ -3,7 +3,7 @@ import React from "react";
 const ImageComponent = () => {
   return (
     <img
-      src="https://cdn2.iconfinder.com/data/icons/audio-16/96/user_avatar_profile_login_button_account_member-512.png"
+      src="https://www.clipartmax.com/middle/m2i8K9A0m2K9H7G6_log-clipart-user-profile-user-login-icon-png/"
       alt="ReduxImage"
       width="50px"
     />
